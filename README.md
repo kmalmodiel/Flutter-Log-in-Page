@@ -1,6 +1,6 @@
-# CC206 Final Output
+## CC206 Final Output
 
-# By: Kristine Mae Almodiel
+### By: Kristine Mae Almodiel
 
 > This is an animated flutter log in screen in compliance for our CC206 Application Development and Emerging Technologies subject. 
 
