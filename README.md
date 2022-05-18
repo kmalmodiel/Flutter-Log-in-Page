@@ -11,8 +11,8 @@
 
 -Input the following details on the email address and password textfields:
 
- email: cictapps@wvsu.edu.ph 
- pass:toor
+ > email: cictapps@wvsu.edu.ph 
+ > pass:toor
 
 NOTE:
 If any other email or password is used, the login button will not navigate you to the home screen.
