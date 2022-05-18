@@ -11,7 +11,7 @@
 
 -Input the following details on the email address and password textfields:
 
- > email: cictapps@wvsu.edu.ph 
+ > email: cictapps@wvsu.edu.ph <br>
  > pass:toor
 
 NOTE:
