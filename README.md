@@ -18,4 +18,4 @@ NOTE:
 If any other email or password is used, the login button will not navigate you to the home screen.
 
 
-### THANK YOU!:red_heart:
+### THANK YOU!
